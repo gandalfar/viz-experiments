@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title></title>
+<link href="lib/bootstrap-combined.min.css" rel="stylesheet">
+<style>
+	#graph {
+		display: block;
+	}
+
+	body {
+	  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	  margin: auto;
+	  position: relative;
+	}
+
+	.container {
+		width: 1420px;
+	}
+
+	.node rect {
+	  cursor: move;
+	  fill-opacity: .9;
+	  shape-rendering: crispEdges;
+	}
+
+	.node text {
+	  pointer-events: none;
+	  text-shadow: 0 1px 0 #fff;
+	}
+
+	.link {
+	  fill: none;
+	  stroke: #000;
+	  stroke-opacity: .2;
+	}
+
+	.link.red {
+		stroke: red;
+	}
+	
+	.link:hover {
+	  stroke-opacity: .5;
+	}
+
+	body {
+		font-size: 12px;
+	}
+
+</style>
+
+<div class="container">
+	<h1>Proračun 2013</h1>
+	<div class="row">
+		<div id="graph" class="span12"></div>	
+	</div>
+</div>
+
+<script src="lib/d3.min.js"></script>
+<script src="sankey.js"></script>
+<script src="script.js"></script>
+

@@ -1,0 +1,391 @@
+{
+    "directed": true,
+    "graph": [
+        [
+            "name",
+            "union( ,  )"
+        ]
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 26,
+            "value": 612774506.78
+        },
+        {
+            "source": 0,
+            "target": 27,
+            "value": 233657817.92999998
+        },
+        {
+            "source": 6,
+            "target": 39,
+            "value": 139976233.4
+        },
+        {
+            "source": 7,
+            "target": 39,
+            "value": 69700939.0
+        },
+        {
+            "source": 8,
+            "target": 39,
+            "value": 94001546.6
+        },
+        {
+            "source": 9,
+            "target": 39,
+            "value": 197416163.29000002
+        },
+        {
+            "source": 14,
+            "target": 40,
+            "value": 5111455551.6
+        },
+        {
+            "source": 15,
+            "target": 40,
+            "value": 84527752.0
+        },
+        {
+            "source": 16,
+            "target": 40,
+            "value": 50000000.0
+        },
+        {
+            "source": 17,
+            "target": 40,
+            "value": 1268518752.55
+        },
+        {
+            "source": 18,
+            "target": 33,
+            "value": 1865243812.33
+        },
+        {
+            "source": 18,
+            "target": 25,
+            "value": 224904950.38
+        },
+        {
+            "source": 18,
+            "target": 29,
+            "value": 413100000.0
+        },
+        {
+            "source": 18,
+            "target": 36,
+            "value": 567039002.24
+        },
+        {
+            "source": 18,
+            "target": 0,
+            "value": 846432324.7099999
+        },
+        {
+            "source": 18,
+            "target": 37,
+            "value": 2562700193.6800003
+        },
+        {
+            "source": 18,
+            "target": 38,
+            "value": 5231279757.42
+        },
+        {
+            "source": 22,
+            "target": 41,
+            "value": 303122052.0
+        },
+        {
+            "source": 23,
+            "target": 41,
+            "value": 733751183.0
+        },
+        {
+            "source": 24,
+            "target": 41,
+            "value": 381452902.1
+        },
+        {
+            "source": 25,
+            "target": 20,
+            "value": 152337000.0
+        },
+        {
+            "source": 25,
+            "target": 21,
+            "value": 66192368.379999995
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "value": 413100000.0
+        },
+        {
+            "source": 31,
+            "target": 42,
+            "value": 3095325052.0
+        },
+        {
+            "source": 33,
+            "target": 34,
+            "value": 7806088.79
+        },
+        {
+            "source": 33,
+            "target": 35,
+            "value": 1857437723.54
+        },
+        {
+            "source": 36,
+            "target": 19,
+            "value": 567039002.24
+        },
+        {
+            "source": 37,
+            "target": 1,
+            "value": 41321302.81
+        },
+        {
+            "source": 37,
+            "target": 30,
+            "value": 657442409.15
+        },
+        {
+            "source": 37,
+            "target": 2,
+            "value": 708683031.5400001
+        },
+        {
+            "source": 37,
+            "target": 3,
+            "value": 173893884.31
+        },
+        {
+            "source": 37,
+            "target": 4,
+            "value": 918588506.8599999
+        },
+        {
+            "source": 37,
+            "target": 5,
+            "value": 62771059.010000005
+        },
+        {
+            "source": 38,
+            "target": 10,
+            "value": 497725116.51
+        },
+        {
+            "source": 38,
+            "target": 11,
+            "value": 1321328922.01
+        },
+        {
+            "source": 38,
+            "target": 12,
+            "value": 145108857.8
+        },
+        {
+            "source": 38,
+            "target": 13,
+            "value": 3236542368.62
+        },
+        {
+            "source": 39,
+            "target": 18,
+            "value": 510673401.51000005
+        },
+        {
+            "source": 40,
+            "target": 18,
+            "value": 6630673573.14
+        },
+        {
+            "source": 41,
+            "target": 18,
+            "value": 1443476137.1
+        },
+        {
+            "source": 42,
+            "target": 18,
+            "value": 3095325052.0
+        }
+    ],
+    "multigraph": false,
+    "nodes": [
+        {
+            "id": "43",
+            "name": "43 - INVESTICIJSKI TRANSFERI"
+        },
+        {
+            "id": "404",
+            "name": "404 - Pla\u010dila tujih obresti"
+        },
+        {
+            "id": "402",
+            "name": "402 - Izdatki za blago in storitve"
+        },
+        {
+            "id": "401",
+            "name": "401 - Prispevki delodajalcev za socialno varnost"
+        },
+        {
+            "id": "400",
+            "name": "400 - Pla\u010de in drugi izdatki zaposlenim"
+        },
+        {
+            "id": "409",
+            "name": "409 - Rezerve"
+        },
+        {
+            "id": "714",
+            "name": "714 - Drugi nedav\u010dni prihodki"
+        },
+        {
+            "id": "712",
+            "name": "712 - Globe in druge denarne kazni"
+        },
+        {
+            "id": "711",
+            "name": "711 - Takse in pristojbine"
+        },
+        {
+            "id": "710",
+            "name": "710 - Udele\u017eba na dobi\u010dku in dohodki od premo\u017eenja"
+        },
+        {
+            "id": "410",
+            "name": "410 - Subvencije"
+        },
+        {
+            "id": "411",
+            "name": "411 - Transferi posameznikom in gospodinjstvom"
+        },
+        {
+            "id": "412",
+            "name": "412 - Transferi nepridobitnim organizacijam in ustanovam"
+        },
+        {
+            "id": "413",
+            "name": "413 - Drugi teko\u010di doma\u010di transferi"
+        },
+        {
+            "id": "704",
+            "name": "704 - Doma\u010di davki na blago in storitve"
+        },
+        {
+            "id": "705",
+            "name": "705 - Davki na mednarodno trgovino in transakcije"
+        },
+        {
+            "id": "706",
+            "name": "706 - Drugi davki"
+        },
+        {
+            "id": "700",
+            "name": "700 - Davki na dohodek in dobi\u010dek"
+        },
+        {
+            "id": "prihodki",
+            "name": "prihodki"
+        },
+        {
+            "id": "420",
+            "name": "420 - Nakup in gradnja osnovnih sredstev"
+        },
+        {
+            "id": "441",
+            "name": "441 - Pove\u010danje kapitalskih dele\u017eev in finan\u010dnih nalo\u017eb"
+        },
+        {
+            "id": "440",
+            "name": "440 - Dana posojila"
+        },
+        {
+            "id": "781",
+            "name": "781 - Prejeta sredstva iz prora\u010duna EU za izvajanje skupne kmetijske in ribi\u0161ke politike"
+        },
+        {
+            "id": "782",
+            "name": "782 - Prejeta sredstva iz prora\u010duna EU iz strukturnih skladov"
+        },
+        {
+            "id": "783",
+            "name": "783 - Prejeta sredstva iz prora\u010duna EU iz kohezijskega sklada"
+        },
+        {
+            "id": "44",
+            "name": "44 - DANA POSOJILA IN POVE\u010cANJE KAPITALSKIH DELE\u017dEV"
+        },
+        {
+            "id": "432",
+            "name": "432 - Investicijski transferi prora\u010dunskim uporabnikom"
+        },
+        {
+            "id": "431",
+            "name": "431 - Investicijski transferi pravnim in fizi\u010dnim osebam. ki niso prora\u010dunski uporabniki"
+        },
+        {
+            "id": "450",
+            "name": "450 - Pla\u010dila sredstev v prora\u010dun Evropske unije"
+        },
+        {
+            "id": "45",
+            "name": "45 - PLA\u010cILA SREDSTEV V PRORA\u010cUN EVROPSKE UNIJE"
+        },
+        {
+            "id": "403",
+            "name": "403 - Pla\u010dila doma\u010dih obresti"
+        },
+        {
+            "id": "500",
+            "name": "500 - Doma\u010de zadol\u017eevanje"
+        },
+        {
+            "id": "odhodki",
+            "name": "odhodki"
+        },
+        {
+            "id": "55",
+            "name": "55 - ODPLA\u010cILA DOLGA"
+        },
+        {
+            "id": "551",
+            "name": "551 - Odpla\u010dila dolga v tujino"
+        },
+        {
+            "id": "550",
+            "name": "550 - Odpla\u010dila doma\u010dega dolga"
+        },
+        {
+            "id": "42",
+            "name": "42 - INVESTICIJSKI ODHODKI"
+        },
+        {
+            "id": "40",
+            "name": "40 - TEKO\u010cI ODHODKI"
+        },
+        {
+            "id": "41",
+            "name": "41 - TEKO\u010cI TRANSFERI"
+        },
+        {
+            "id": "71",
+            "name": "71 - NEDAV\u010cNI PRIHODKI"
+        },
+        {
+            "id": "70",
+            "name": "70 - DAV\u010cNI PRIHODKI"
+        },
+        {
+            "id": "78",
+            "name": "78 - PREJETA SREDSTVA IZ EVROPSKE UNIJE"
+        },
+        {
+            "id": "50",
+            "name": "50 - ZADOL\u017dEVANJE"
+        }
+    ]
+}

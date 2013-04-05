@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="value" attr.type="double" for="edge" id="d1" />
+  <key attr.name="name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="4120">
+      <data key="d0">4120 - Tekoči transferi nepridobitnim organizacijam in ustanovam</data>
+    </node>
+    <node id="42">
+      <data key="d0">42 - INVESTICIJSKI ODHODKI</data>
+    </node>
+    <node id="4005">
+      <data key="d0">4005 - Plače za delo nerezidentov po pogodbi</data>
+    </node>
+    <node id="4026">
+      <data key="d0">4026 - Poslovne najemnine in zakupnine</data>
+    </node>
+    <node id="4027">
+      <data key="d0">4027 - Kazni in odškodnine</data>
+    </node>
+    <node id="4024">
+      <data key="d0">4024 - Izdatki za službena potovanja</data>
+    </node>
+    <node id="4025">
+      <data key="d0">4025 - Tekoče vzdrževanje</data>
+    </node>
+    <node id="4022">
+      <data key="d0">4022 - Energija. voda. komunalne storitve in komunikacije</data>
+    </node>
+    <node id="4023">
+      <data key="d0">4023 - Prevozni stroški in storitve</data>
+    </node>
+    <node id="4020">
+      <data key="d0">4020 - Pisarniški in splošni material in storitve</data>
+    </node>
+    <node id="4021">
+      <data key="d0">4021 - Posebni material in storitve</data>
+    </node>
+    <node id="5504">
+      <data key="d0">5504 - Odplačila glavnice vrednostnih papirjev. izdanih na domačem trgu</data>
+    </node>
+    <node id="5503">
+      <data key="d0">5503 - Odplačila kreditov drugim domačim kreditodajalcem</data>
+    </node>
+    <node id="4029">
+      <data key="d0">4029 - Drugi operativni odhodki</data>
+    </node>
+    <node id="4141">
+      <data key="d0">4141 - Tekoči transferi tujim vladam in vladnim institucijam</data>
+    </node>
+    <node id="4140">
+      <data key="d0">4140 - Tekoči transferi mednarodnim institucijam</data>
+    </node>
+    <node id="4143">
+      <data key="d0">4143 - Drugi tekoči transferi v tujino</data>
+    </node>
+    <node id="4142">
+      <data key="d0">4142 - Tekoči transferi neprofitnim organizacijam v tujini</data>
+    </node>
+    <node id="404">
+      <data key="d0">404 - Plačila tujih obresti</data>
+    </node>
+    <node id="403">
+      <data key="d0">403 - Plačila domačih obresti</data>
+    </node>
+    <node id="402">
+      <data key="d0">402 - Izdatki za blago in storitve</data>
+    </node>
+    <node id="401">
+      <data key="d0">401 - Prispevki delodajalcev za socialno varnost</data>
+    </node>
+    <node id="400">
+      <data key="d0">400 - Plače in drugi izdatki zaposlenim</data>
+    </node>
+    <node id="409">
+      <data key="d0">409 - Rezerve</data>
+    </node>
+    <node id="4031">
+      <data key="d0">4031 - Plačila obresti od kreditov - poslovnim bankam</data>
+    </node>
+    <node id="4033">
+      <data key="d0">4033 - Plačila obresti od kreditov - drugim domačim kreditodajalcem</data>
+    </node>
+    <node id="4032">
+      <data key="d0">4032 - Plačila obresti od kreditov - drugim finančnim institucijam</data>
+    </node>
+    <node id="4034">
+      <data key="d0">4034 - Plačila obresti od vrednostnih papirjev izdanih na domačem trgu</data>
+    </node>
+    <node id="5510">
+      <data key="d0">5510 - Odplačila dolga mednarodnim finančnim institucijam</data>
+    </node>
+    <node id="4409">
+      <data key="d0">4409 - Plačila zapadlih poroštev</data>
+    </node>
+    <node id="4130">
+      <data key="d0">4130 - Tekoči transferi občinam</data>
+    </node>
+    <node id="4131">
+      <data key="d0">4131 - Tekoči transferi v sklade socialnega zavarovanja</data>
+    </node>
+    <node id="4132">
+      <data key="d0">4132 - Tekoči transferi v javne sklade</data>
+    </node>
+    <node id="4133">
+      <data key="d0">4133 - Tekoči transferi v javne zavode</data>
+    </node>
+    <node id="4134">
+      <data key="d0">4134 - Tekoči transferi v državni proračun</data>
+    </node>
+    <node id="4401">
+      <data key="d0">4401 - Dana posojila javnim skladom</data>
+    </node>
+    <node id="4136">
+      <data key="d0">4136 - Tekoči transferi v javne agencije</data>
+    </node>
+    <node id="414">
+      <data key="d0">414 - Tekoči transferi v tujino</data>
+    </node>
+    <node id="4404">
+      <data key="d0">4404 - Dana posojila privatnim podjetjem</data>
+    </node>
+    <node id="410">
+      <data key="d0">410 - Subvencije</data>
+    </node>
+    <node id="411">
+      <data key="d0">411 - Transferi posameznikom in gospodinjstvom</data>
+    </node>
+    <node id="412">
+      <data key="d0">412 - Transferi nepridobitnim organizacijam in ustanovam</data>
+    </node>
+    <node id="413">
+      <data key="d0">413 - Drugi tekoči domači transferi</data>
+    </node>
+    <node id="4310">
+      <data key="d0">4310 - Investicijski transferi nepridobitnim organizacijam in ustanovam</data>
+    </node>
+    <node id="4321">
+      <data key="d0">4321 - Investicijski transferi javnim skladom in agencijam</data>
+    </node>
+    <node id="4320">
+      <data key="d0">4320 - Investicijski transferi občinam</data>
+    </node>
+    <node id="4323">
+      <data key="d0">4323 - Investicijski transferi javnim zavodom</data>
+    </node>
+    <node id="4322">
+      <data key="d0">4322 - Investicijski transferi v državni proračun</data>
+    </node>
+    <node id="4135">
+      <data key="d0">4135 - Tekoča plačila drugim izvajalcem javnih služb. ki niso posredni proračunski uporabniki</data>
+    </node>
+    <node id="4208">
+      <data key="d0">4208 - Študije o izvedljivosti projektov. projektna dokumentacija. nadzor in investicijski inženiring</data>
+    </node>
+    <node id="4090">
+      <data key="d0">4090 - Splošna proračunska rezervacija</data>
+    </node>
+    <node id="4202">
+      <data key="d0">4202 - Nakup opreme</data>
+    </node>
+    <node id="4203">
+      <data key="d0">4203 - Nakup drugih osnovnih sredstev</data>
+    </node>
+    <node id="4200">
+      <data key="d0">4200 - Nakup zgradb in prostorov</data>
+    </node>
+    <node id="4201">
+      <data key="d0">4201 - Nakup prevoznih sredstev</data>
+    </node>
+    <node id="4206">
+      <data key="d0">4206 - Nakup zemljišč in naravnih bogastev</data>
+    </node>
+    <node id="4207">
+      <data key="d0">4207 - Nakup nematerialnega premoženja</data>
+    </node>
+    <node id="4204">
+      <data key="d0">4204 - Novogradnje. rekonstrukcije in adaptacije</data>
+    </node>
+    <node id="4205">
+      <data key="d0">4205 - Investicijsko vzdrževanje in obnove</data>
+    </node>
+    <node id="4044">
+      <data key="d0">4044 - Plačila obresti od vrednostnih papirjev. izdanih na tujih trgih</data>
+    </node>
+    <node id="4040">
+      <data key="d0">4040 - Plačila obresti od kreditov - mednarodnim finančnim institucijam</data>
+    </node>
+    <node id="4414">
+      <data key="d0">4414 - Povečanje kapitalskih deležev v tujino</data>
+    </node>
+    <node id="4410">
+      <data key="d0">4410 - Povečanje kapitalskih deležev v javnih podjetjih in družbam. ki so v lasti države ali občin</data>
+    </node>
+    <node id="420">
+      <data key="d0">420 - Nakup in gradnja osnovnih sredstev</data>
+    </node>
+    <node id="5501">
+      <data key="d0">5501 - Odplačila kreditov poslovnim bankam</data>
+    </node>
+    <node id="443">
+      <data key="d0">443 - Povečanje namenskega premoženja v javnih skladih in drugih pravnih osebah javnega prava. ki imajo premoženje v svoji lasti</data>
+    </node>
+    <node id="442">
+      <data key="d0">442 - Poraba sredstev kupnin iz naslova privatizacije</data>
+    </node>
+    <node id="441">
+      <data key="d0">441 - Povečanje kapitalskih deležev in finančnih naložb</data>
+    </node>
+    <node id="440">
+      <data key="d0">440 - Dana posojila</data>
+    </node>
+    <node id="4117">
+      <data key="d0">4117 - Štipendije</data>
+    </node>
+    <node id="4112">
+      <data key="d0">4112 - Transferi za zagotavljanje socialne varnosti</data>
+    </node>
+    <node id="4113">
+      <data key="d0">4113 - Transferi vojnim invalidom. veteranom in žrtvam vojnega nasilja</data>
+    </node>
+    <node id="4110">
+      <data key="d0">4110 - Transferi nezaposlenim</data>
+    </node>
+    <node id="4111">
+      <data key="d0">4111 - Družinski prejemki in starševska nadomestila</data>
+    </node>
+    <node id="4119">
+      <data key="d0">4119 - Drugi transferi posameznikom</data>
+    </node>
+    <node id="odhodki">
+      <data key="d0">odhodki</data>
+    </node>
+    <node id="4420">
+      <data key="d0">4420 - Dana posojila iz sredstev kupnin</data>
+    </node>
+    <node id="4421">
+      <data key="d0">4421 - Sredstva kupnin. razporejena v javne sklade in agencije</data>
+    </node>
+    <node id="4003">
+      <data key="d0">4003 - Sredstva za delovno uspešnost</data>
+    </node>
+    <node id="432">
+      <data key="d0">432 - Investicijski transferi proračunskim uporabnikom</data>
+    </node>
+    <node id="431">
+      <data key="d0">431 - Investicijski transferi pravnim in fizičnim osebam. ki niso proračunski uporabniki</data>
+    </node>
+    <node id="450">
+      <data key="d0">450 - Plačila sredstev v proračun Evropske unije</data>
+    </node>
+    <node id="4100">
+      <data key="d0">4100 - Subvencije javnim podjetjem</data>
+    </node>
+    <node id="4102">
+      <data key="d0">4102 - Subvencije privatnim podjetjem in zasebnikom</data>
+    </node>
+    <node id="4430">
+      <data key="d0">4430 - Povečanje  namenskega premoženja v javnih skladih</data>
+    </node>
+    <node id="55">
+      <data key="d0">55 - ODPLAČILA DOLGA</data>
+    </node>
+    <node id="551">
+      <data key="d0">551 - Odplačila dolga v tujino</data>
+    </node>
+    <node id="550">
+      <data key="d0">550 - Odplačila domačega dolga</data>
+    </node>
+    <node id="4009">
+      <data key="d0">4009 - Drugi izdatki zaposlenim</data>
+    </node>
+    <node id="4000">
+      <data key="d0">4000 - Plače in dodatki</data>
+    </node>
+    <node id="4001">
+      <data key="d0">4001 - Regres za letni dopust</data>
+    </node>
+    <node id="4002">
+      <data key="d0">4002 - Povračila in nadomestila</data>
+    </node>
+    <node id="45">
+      <data key="d0">45 - PLAČILA SREDSTEV V PRORAČUN EVROPSKE UNIJE</data>
+    </node>
+    <node id="4004">
+      <data key="d0">4004 - Sredstva za nadurno delo</data>
+    </node>
+    <node id="43">
+      <data key="d0">43 - INVESTICIJSKI TRANSFERI</data>
+    </node>
+    <node id="40">
+      <data key="d0">40 - TEKOČI ODHODKI</data>
+    </node>
+    <node id="41">
+      <data key="d0">41 - TEKOČI TRANSFERI</data>
+    </node>
+    <node id="4093">
+      <data key="d0">4093 - Sredstva za posebne namene</data>
+    </node>
+    <node id="4311">
+      <data key="d0">4311 - Investicijski transferi javnim podjetjem in družbam. ki so v lasti države ali občin</data>
+    </node>
+    <node id="4091">
+      <data key="d0">4091 - Proračunska rezerva</data>
+    </node>
+    <node id="4313">
+      <data key="d0">4313 - Investicijski transferi privatnim podjetjem</data>
+    </node>
+    <node id="4314">
+      <data key="d0">4314 - Investicijski transferi posameznikom in zasebnikom</data>
+    </node>
+    <node id="4315">
+      <data key="d0">4315 - Investicijski transferi drugim izvajalcem javnih služb. ki niso posredni proračunski uporabniki</data>
+    </node>
+    <node id="4504">
+      <data key="d0">4504 - Plačila sredstev v proračun EU iz naslova popravkov BND vira v korist Kraljevin Nizozemske in Švedske</data>
+    </node>
+    <node id="4501">
+      <data key="d0">4501 - Plačila sredstev v proračun EU iz naslova davka na dodano vrednost</data>
+    </node>
+    <node id="4500">
+      <data key="d0">4500 - Plačila tradicionalnih lastnih sredstev v proračun Evropske unije</data>
+    </node>
+    <node id="4503">
+      <data key="d0">4503 - Plačila sredstev v proračun EU iz naslova popravka v korist Združenega Kraljestva</data>
+    </node>
+    <node id="4502">
+      <data key="d0">4502 - Plačila sredstev v proračun EU iz naslova bruto nacionalnega dohodka</data>
+    </node>
+    <node id="4013">
+      <data key="d0">4013 - Prispevek za starševsko varstvo</data>
+    </node>
+    <node id="4012">
+      <data key="d0">4012 - Prispevek za zaposlovanje</data>
+    </node>
+    <node id="4011">
+      <data key="d0">4011 - Prispevek za zdravstveno zavarovanje</data>
+    </node>
+    <node id="4010">
+      <data key="d0">4010 - Prispevek za pokojninsko in invalidsko zavarovanje</data>
+    </node>
+    <node id="4015">
+      <data key="d0">4015 - Premije kolektivnega dodatnega pokojninskega zavarovanja. na podlagi ZKDPZJU</data>
+    </node>
+    <node id="44">
+      <data key="d0">44 - DANA POSOJILA IN POVEČANJE KAPITALSKIH DELEŽEV</data>
+    </node>
+    <edge source="42" target="420">
+      <data key="d1">567039002.24</data>
+    </edge>
+    <edge source="404" target="4044">
+      <data key="d1">40000000.0</data>
+    </edge>
+    <edge source="404" target="4040">
+      <data key="d1">1321302.81</data>
+    </edge>
+    <edge source="403" target="4031">
+      <data key="d1">21906435.06</data>
+    </edge>
+    <edge source="403" target="4033">
+      <data key="d1">8184423.85</data>
+    </edge>
+    <edge source="403" target="4032">
+      <data key="d1">96443.64</data>
+    </edge>
+    <edge source="403" target="4034">
+      <data key="d1">627255106.6</data>
+    </edge>
+    <edge source="402" target="4026">
+      <data key="d1">61288898.07</data>
+    </edge>
+    <edge source="402" target="4027">
+      <data key="d1">15012032.39</data>
+    </edge>
+    <edge source="402" target="4024">
+      <data key="d1">14069295.96</data>
+    </edge>
+    <edge source="402" target="4025">
+      <data key="d1">197707244.2</data>
+    </edge>
+    <edge source="402" target="4022">
+      <data key="d1">65374712.82</data>
+    </edge>
+    <edge source="402" target="4023">
+      <data key="d1">40223491.81</data>
+    </edge>
+    <edge source="402" target="4020">
+      <data key="d1">79248021.79</data>
+    </edge>
+    <edge source="402" target="4021">
+      <data key="d1">122573801.3</data>
+    </edge>
+    <edge source="402" target="4029">
+      <data key="d1">113185533.2</data>
+    </edge>
+    <edge source="401" target="4013">
+      <data key="d1">952338.01</data>
+    </edge>
+    <edge source="401" target="4012">
+      <data key="d1">616752.31</data>
+    </edge>
+    <edge source="401" target="4011">
+      <data key="d1">56126247.68</data>
+    </edge>
+    <edge source="401" target="4010">
+      <data key="d1">100911325.6</data>
+    </edge>
+    <edge source="401" target="4015">
+      <data key="d1">15287220.71</data>
+    </edge>
+    <edge source="400" target="4009">
+      <data key="d1">9517367.6</data>
+    </edge>
+    <edge source="400" target="4000">
+      <data key="d1">807262023.0</data>
+    </edge>
+    <edge source="400" target="4001">
+      <data key="d1">14690647.02</data>
+    </edge>
+    <edge source="400" target="4002">
+      <data key="d1">76472719.66</data>
+    </edge>
+    <edge source="400" target="4003">
+      <data key="d1">4510352.39</data>
+    </edge>
+    <edge source="400" target="4004">
+      <data key="d1">6131007.51</data>
+    </edge>
+    <edge source="400" target="4005">
+      <data key="d1">4389.68</data>
+    </edge>
+    <edge source="409" target="4093">
+      <data key="d1">18874500.01</data>
+    </edge>
+    <edge source="409" target="4091">
+      <data key="d1">18896559.0</data>
+    </edge>
+    <edge source="409" target="4090">
+      <data key="d1">25000000.0</data>
+    </edge>
+    <edge source="414" target="4141">
+      <data key="d1">64681.58</data>
+    </edge>
+    <edge source="414" target="4140">
+      <data key="d1">20091768.0</data>
+    </edge>
+    <edge source="414" target="4143">
+      <data key="d1">8167856.9</data>
+    </edge>
+    <edge source="414" target="4142">
+      <data key="d1">2250186.0</data>
+    </edge>
+    <edge source="410" target="4100">
+      <data key="d1">62870737.01</data>
+    </edge>
+    <edge source="410" target="4102">
+      <data key="d1">434854379.5</data>
+    </edge>
+    <edge source="411" target="4117">
+      <data key="d1">92407076.31</data>
+    </edge>
+    <edge source="411" target="4112">
+      <data key="d1">214073490.0</data>
+    </edge>
+    <edge source="411" target="4113">
+      <data key="d1">58948200.0</data>
+    </edge>
+    <edge source="411" target="4110">
+      <data key="d1">238278221.0</data>
+    </edge>
+    <edge source="411" target="4111">
+      <data key="d1">542814691.0</data>
+    </edge>
+    <edge source="411" target="4119">
+      <data key="d1">174807243.7</data>
+    </edge>
+    <edge source="412" target="4120">
+      <data key="d1">145108857.8</data>
+    </edge>
+    <edge source="413" target="4130">
+      <data key="d1">18617015.25</data>
+    </edge>
+    <edge source="413" target="4131">
+      <data key="d1">1422570481.0</data>
+    </edge>
+    <edge source="413" target="4132">
+      <data key="d1">17716792.07</data>
+    </edge>
+    <edge source="413" target="4133">
+      <data key="d1">1648245869.0</data>
+    </edge>
+    <edge source="413" target="4134">
+      <data key="d1">827262.03</data>
+    </edge>
+    <edge source="413" target="4135">
+      <data key="d1">88374063.32</data>
+    </edge>
+    <edge source="413" target="4136">
+      <data key="d1">40190885.95</data>
+    </edge>
+    <edge source="420" target="4208">
+      <data key="d1">57995997.65</data>
+    </edge>
+    <edge source="420" target="4202">
+      <data key="d1">56605808.42</data>
+    </edge>
+    <edge source="420" target="4203">
+      <data key="d1">80070.6</data>
+    </edge>
+    <edge source="420" target="4200">
+      <data key="d1">6822659.0</data>
+    </edge>
+    <edge source="420" target="4201">
+      <data key="d1">9829213.5</data>
+    </edge>
+    <edge source="420" target="4206">
+      <data key="d1">20024287.9</data>
+    </edge>
+    <edge source="420" target="4207">
+      <data key="d1">35111423.5</data>
+    </edge>
+    <edge source="420" target="4204">
+      <data key="d1">298463420.5</data>
+    </edge>
+    <edge source="420" target="4205">
+      <data key="d1">82106121.17</data>
+    </edge>
+    <edge source="443" target="4430">
+      <data key="d1">140977.48</data>
+    </edge>
+    <edge source="442" target="4420">
+      <data key="d1">1260604.52</data>
+    </edge>
+    <edge source="442" target="4421">
+      <data key="d1">4974000.0</data>
+    </edge>
+    <edge source="441" target="4414">
+      <data key="d1">150337000.0</data>
+    </edge>
+    <edge source="441" target="4410">
+      <data key="d1">2000000.0</data>
+    </edge>
+    <edge source="440" target="4404">
+      <data key="d1">37158418.0</data>
+    </edge>
+    <edge source="440" target="4409">
+      <data key="d1">28433950.38</data>
+    </edge>
+    <edge source="440" target="4401">
+      <data key="d1">600000.0</data>
+    </edge>
+    <edge source="odhodki" target="55">
+      <data key="d1">1865243812.33</data>
+    </edge>
+    <edge source="odhodki" target="44">
+      <data key="d1">224904950.38</data>
+    </edge>
+    <edge source="odhodki" target="45">
+      <data key="d1">413100000.0</data>
+    </edge>
+    <edge source="odhodki" target="42">
+      <data key="d1">567039002.24</data>
+    </edge>
+    <edge source="odhodki" target="43">
+      <data key="d1">846432324.71</data>
+    </edge>
+    <edge source="odhodki" target="40">
+      <data key="d1">2562700193.68</data>
+    </edge>
+    <edge source="odhodki" target="41">
+      <data key="d1">5231279757.42</data>
+    </edge>
+    <edge source="432" target="4321">
+      <data key="d1">1066442.38</data>
+    </edge>
+    <edge source="432" target="4320">
+      <data key="d1">443644113.7</data>
+    </edge>
+    <edge source="432" target="4323">
+      <data key="d1">168048950.7</data>
+    </edge>
+    <edge source="432" target="4322">
+      <data key="d1">15000.0</data>
+    </edge>
+    <edge source="431" target="4310">
+      <data key="d1">51580699.7</data>
+    </edge>
+    <edge source="431" target="4311">
+      <data key="d1">24844384.03</data>
+    </edge>
+    <edge source="431" target="4313">
+      <data key="d1">115989487.3</data>
+    </edge>
+    <edge source="431" target="4314">
+      <data key="d1">40973791.36</data>
+    </edge>
+    <edge source="431" target="4315">
+      <data key="d1">269455.54</data>
+    </edge>
+    <edge source="450" target="4504">
+      <data key="d1">2306144.0</data>
+    </edge>
+    <edge source="450" target="4501">
+      <data key="d1">53463750.0</data>
+    </edge>
+    <edge source="450" target="4500">
+      <data key="d1">81800000.0</data>
+    </edge>
+    <edge source="450" target="4503">
+      <data key="d1">18239917.0</data>
+    </edge>
+    <edge source="450" target="4502">
+      <data key="d1">257290189.0</data>
+    </edge>
+    <edge source="55" target="551">
+      <data key="d1">7806088.79</data>
+    </edge>
+    <edge source="55" target="550">
+      <data key="d1">1857437723.54</data>
+    </edge>
+    <edge source="551" target="5510">
+      <data key="d1">7806088.79</data>
+    </edge>
+    <edge source="550" target="5504">
+      <data key="d1">1689083447.0</data>
+    </edge>
+    <edge source="550" target="5503">
+      <data key="d1">68354276.54</data>
+    </edge>
+    <edge source="550" target="5501">
+      <data key="d1">100000000.0</data>
+    </edge>
+    <edge source="45" target="450">
+      <data key="d1">413100000.0</data>
+    </edge>
+    <edge source="43" target="432">
+      <data key="d1">612774506.78</data>
+    </edge>
+    <edge source="43" target="431">
+      <data key="d1">233657817.93</data>
+    </edge>
+    <edge source="40" target="404">
+      <data key="d1">41321302.81</data>
+    </edge>
+    <edge source="40" target="403">
+      <data key="d1">657442409.15</data>
+    </edge>
+    <edge source="40" target="402">
+      <data key="d1">708683031.54</data>
+    </edge>
+    <edge source="40" target="401">
+      <data key="d1">173893884.31</data>
+    </edge>
+    <edge source="40" target="400">
+      <data key="d1">918588506.86</data>
+    </edge>
+    <edge source="40" target="409">
+      <data key="d1">62771059.01</data>
+    </edge>
+    <edge source="41" target="414">
+      <data key="d1">30574492.48</data>
+    </edge>
+    <edge source="41" target="410">
+      <data key="d1">497725116.51</data>
+    </edge>
+    <edge source="41" target="411">
+      <data key="d1">1321328922.01</data>
+    </edge>
+    <edge source="41" target="412">
+      <data key="d1">145108857.8</data>
+    </edge>
+    <edge source="41" target="413">
+      <data key="d1">3236542368.62</data>
+    </edge>
+    <edge source="44" target="443">
+      <data key="d1">140977.48</data>
+    </edge>
+    <edge source="44" target="442">
+      <data key="d1">6234604.52</data>
+    </edge>
+    <edge source="44" target="441">
+      <data key="d1">152337000.0</data>
+    </edge>
+    <edge source="44" target="440">
+      <data key="d1">66192368.38</data>
+    </edge>
+  </graph>
+</graphml>

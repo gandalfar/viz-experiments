@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="value" attr.type="double" for="edge" id="d1" />
+  <key attr.name="name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="7814">
+      <data key="d0">7814 - Prejeta sredstva iz proračuna EU za izvajanje skupne ribiške politike</data>
+    </node>
+    <node id="7812">
+      <data key="d0">7812 - Prejeta sredstva iz proračuna EU iz naslova programa razvoja podeželja iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega sklada za razvoj podeželja (EKSRP)</data>
+    </node>
+    <node id="7813">
+      <data key="d0">7813 - Ostala prejeta sredstva iz proračuna EU za izvajanje skupne kmetijske politike</data>
+    </node>
+    <node id="7810">
+      <data key="d0">7810 - Prejeta sredstva iz proračuna EU iz naslova tržnih ukrepov v kmetijstvu iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega jamstvenega sklada (EKJS)</data>
+    </node>
+    <node id="7811">
+      <data key="d0">7811 - Prejeta sredstva iz proračuna EU iz naslova neposrednih plačil v kmetijstvu iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega jamstvenega sklada (EKJS)</data>
+    </node>
+    <node id="7221">
+      <data key="d0">7221 - Prihodki od prodaje stavbnih zemljišč</data>
+    </node>
+    <node id="7220">
+      <data key="d0">7220 - Prihodki od prodaje kmetijskih zemljišč in gozdov</data>
+    </node>
+    <node id="7111">
+      <data key="d0">7111 - Upravne takse in pristojbine</data>
+    </node>
+    <node id="7110">
+      <data key="d0">7110 - Sodne takse</data>
+    </node>
+    <node id="7300">
+      <data key="d0">7300 - Prejete donacije in darila od domačih pravnih oseb</data>
+    </node>
+    <node id="7301">
+      <data key="d0">7301 - Prejete donacije in darila od domačih fizičnih oseb</data>
+    </node>
+    <node id="7050">
+      <data key="d0">7050 - Carine</data>
+    </node>
+    <node id="7513">
+      <data key="d0">7513 - Sredstva. pridobljena s prodajo drugih kapitalskih deležev</data>
+    </node>
+    <node id="75">
+      <data key="d0">75 - PREJETA VRAČILA DANIH POSOJIL IN PRODAJA KAPITALSKIH DELEŽEV</data>
+    </node>
+    <node id="714">
+      <data key="d0">714 - Drugi nedavčni prihodki</data>
+    </node>
+    <node id="713">
+      <data key="d0">713 - Prihodki od prodaje blaga in storitev</data>
+    </node>
+    <node id="712">
+      <data key="d0">712 - Globe in druge denarne kazni</data>
+    </node>
+    <node id="711">
+      <data key="d0">711 - Takse in pristojbine</data>
+    </node>
+    <node id="710">
+      <data key="d0">710 - Udeležba na dobičku in dohodki od premoženja</data>
+    </node>
+    <node id="7044">
+      <data key="d0">7044 - Davki na posebne storitve</data>
+    </node>
+    <node id="7047">
+      <data key="d0">7047 - Drugi davki na uporabo blaga in storitev</data>
+    </node>
+    <node id="7046">
+      <data key="d0">7046 - Letna dajatev za uporabo vozil v cestnem prometu</data>
+    </node>
+    <node id="7041">
+      <data key="d0">7041 - Drugi davki na blago in storitve</data>
+    </node>
+    <node id="7040">
+      <data key="d0">7040 - Davek na dodano vrednost</data>
+    </node>
+    <node id="7042">
+      <data key="d0">7042 - Trošarine (akcize)</data>
+    </node>
+    <node id="7048">
+      <data key="d0">7048 - Davki od prometa motornih vozil</data>
+    </node>
+    <node id="7120">
+      <data key="d0">7120 - Globe in druge denarne kazni</data>
+    </node>
+    <node id="7311">
+      <data key="d0">7311 - Prejete donacije in darila od tujih vlad in vladnih institucij</data>
+    </node>
+    <node id="7310">
+      <data key="d0">7310 - Prejete donacije in darila od tujih nevladnih organizacij in fundacij</data>
+    </node>
+    <node id="7520">
+      <data key="d0">7520 - Sredstva kupnin iz naslova privatizacije</data>
+    </node>
+    <node id="704">
+      <data key="d0">704 - Domači davki na blago in storitve</data>
+    </node>
+    <node id="705">
+      <data key="d0">705 - Davki na mednarodno trgovino in transakcije</data>
+    </node>
+    <node id="706">
+      <data key="d0">706 - Drugi davki</data>
+    </node>
+    <node id="700">
+      <data key="d0">700 - Davki na dohodek in dobiček</data>
+    </node>
+    <node id="701">
+      <data key="d0">701 - Prispevki za socialno varnost</data>
+    </node>
+    <node id="702">
+      <data key="d0">702 - Davki na plačilno listo in delovno silo</data>
+    </node>
+    <node id="703">
+      <data key="d0">703 - Davki na premoženje</data>
+    </node>
+    <node id="7033">
+      <data key="d0">7033 - Davki na promet nepremičnin in na finančno premoženje</data>
+    </node>
+    <node id="prihodki">
+      <data key="d0">prihodki</data>
+    </node>
+    <node id="7130">
+      <data key="d0">7130 - Prihodki od prodaje blaga in storitev</data>
+    </node>
+    <node id="5000">
+      <data key="d0">5000 - Najeti krediti pri Banki Slovenije</data>
+    </node>
+    <node id="7021">
+      <data key="d0">7021 - Posebni davek na določene prejemke</data>
+    </node>
+    <node id="7860">
+      <data key="d0">7860 - Ostala prejeta sredstva iz proračuna EU</data>
+    </node>
+    <node id="784">
+      <data key="d0">784 - Prejeta sredstva iz proračuna EU za izvajanje centraliziranih in drugih programov EU</data>
+    </node>
+    <node id="786">
+      <data key="d0">786 - Ostala prejeta sredstva iz proračuna Evropske unije</data>
+    </node>
+    <node id="781">
+      <data key="d0">781 - Prejeta sredstva iz proračuna EU za izvajanje skupne kmetijske in ribiške politike</data>
+    </node>
+    <node id="782">
+      <data key="d0">782 - Prejeta sredstva iz proračuna EU iz strukturnih skladov</data>
+    </node>
+    <node id="783">
+      <data key="d0">783 - Prejeta sredstva iz proračuna EU iz kohezijskega sklada</data>
+    </node>
+    <node id="7141">
+      <data key="d0">7141 - Drugi nedavčni prihodki</data>
+    </node>
+    <node id="7103">
+      <data key="d0">7103 - Prihodki od premoženja</data>
+    </node>
+    <node id="7012">
+      <data key="d0">7012 - Prispevki samozaposlenih</data>
+    </node>
+    <node id="7013">
+      <data key="d0">7013 - Ostali prispevki za socialno varnost</data>
+    </node>
+    <node id="7010">
+      <data key="d0">7010 - Prispevki zaposlenih</data>
+    </node>
+    <node id="7011">
+      <data key="d0">7011 - Prispevki delodajalcev</data>
+    </node>
+    <node id="731">
+      <data key="d0">731 - Prejete donacije iz tujine</data>
+    </node>
+    <node id="730">
+      <data key="d0">730 - Prejete donacije iz domačih virov</data>
+    </node>
+    <node id="500">
+      <data key="d0">500 - Domače zadolževanje</data>
+    </node>
+    <node id="752">
+      <data key="d0">752 - Kupnine iz naslova privatizacije</data>
+    </node>
+    <node id="751">
+      <data key="d0">751 - Prodaja kapitalskih deležev</data>
+    </node>
+    <node id="750">
+      <data key="d0">750 - Prejeta vračila danih posojil</data>
+    </node>
+    <node id="7001">
+      <data key="d0">7001 - Davek od dohodkov pravnih oseb</data>
+    </node>
+    <node id="7000">
+      <data key="d0">7000 - Dohodnina</data>
+    </node>
+    <node id="7002">
+      <data key="d0">7002 - Drugi davki na dohodek in dobiček</data>
+    </node>
+    <node id="7841">
+      <data key="d0">7841 - Druga prejeta sredstva iz proračuna EU za izvajanje notranjih politik EU 2004 - 2006</data>
+    </node>
+    <node id="7843">
+      <data key="d0">7843 - Prejeta sredstva iz proračuna EU iz naslova Državljanstvo. svoboda. varnost in pravica</data>
+    </node>
+    <node id="7211">
+      <data key="d0">7211 - Prihodki od prodaje drugih zalog</data>
+    </node>
+    <node id="722">
+      <data key="d0">722 - Prihodki od prodaje zemljišč in neopredmetenih sredstev</data>
+    </node>
+    <node id="720">
+      <data key="d0">720 - Prihodki od prodaje osnovnih sredstev</data>
+    </node>
+    <node id="721">
+      <data key="d0">721 - Prihodki od prodaje zalog</data>
+    </node>
+    <node id="7400">
+      <data key="d0">7400 - Prejeta sredstva iz državnega proračuna</data>
+    </node>
+    <node id="7402">
+      <data key="d0">7402 - Prejeta sredstva iz skladov socialnega zavarovanja</data>
+    </node>
+    <node id="740">
+      <data key="d0">740 - Transferni prihodki iz drugih javnofinančnih institucij</data>
+    </node>
+    <node id="7830">
+      <data key="d0">7830 - Prejeta sredstva iz Kohezijskega sklada (CF)</data>
+    </node>
+    <node id="7203">
+      <data key="d0">7203 - Prihodki od prodaje drugih osnovnih sredstev</data>
+    </node>
+    <node id="7202">
+      <data key="d0">7202 - Prihodki od prodaje opreme</data>
+    </node>
+    <node id="7201">
+      <data key="d0">7201 - Prihodki od prodaje prevoznih sredstev</data>
+    </node>
+    <node id="7200">
+      <data key="d0">7200 - Prihodki od prodaje zgradb in prostorov</data>
+    </node>
+    <node id="7100">
+      <data key="d0">7100 - Prihodki od udeležbe na dobičku in dividend ter presežkov prihodkov nad odhodki</data>
+    </node>
+    <node id="7102">
+      <data key="d0">7102 - Prihodki od obresti</data>
+    </node>
+    <node id="74">
+      <data key="d0">74 - TRANSFERNI PRIHODKI</data>
+    </node>
+    <node id="73">
+      <data key="d0">73 - PREJETE DONACIJE</data>
+    </node>
+    <node id="72">
+      <data key="d0">72 - KAPITALSKI PRIHODKI</data>
+    </node>
+    <node id="71">
+      <data key="d0">71 - NEDAVČNI PRIHODKI</data>
+    </node>
+    <node id="70">
+      <data key="d0">70 - DAVČNI PRIHODKI</data>
+    </node>
+    <node id="7822">
+      <data key="d0">7822 - Prejeta sredstva iz Evropskega socialnega sklada (ESF)</data>
+    </node>
+    <node id="7821">
+      <data key="d0">7821 - Prejeta sredstva iz proračuna EU iz Evropskega sklada za regionalni razvoj (ERDF)</data>
+    </node>
+    <node id="78">
+      <data key="d0">78 - PREJETA SREDSTVA IZ EVROPSKE UNIJE</data>
+    </node>
+    <node id="7060">
+      <data key="d0">7060 - Drugi davki</data>
+    </node>
+    <node id="7504">
+      <data key="d0">7504 - Prejeta vračila danih posojil od privatnih podjetij</data>
+    </node>
+    <node id="7509">
+      <data key="d0">7509 - Prejeta vračila plačanih poroštev</data>
+    </node>
+    <node id="50">
+      <data key="d0">50 - ZADOLŽEVANJE</data>
+    </node>
+    <edge source="7814" target="781">
+      <data key="d1">6300000.0</data>
+    </edge>
+    <edge source="7812" target="781">
+      <data key="d1">153143302.0</data>
+    </edge>
+    <edge source="7813" target="781">
+      <data key="d1">2362250.0</data>
+    </edge>
+    <edge source="7810" target="781">
+      <data key="d1">8241500.0</data>
+    </edge>
+    <edge source="7811" target="781">
+      <data key="d1">133075000.0</data>
+    </edge>
+    <edge source="7221" target="722">
+      <data key="d1">276997.56</data>
+    </edge>
+    <edge source="7220" target="722">
+      <data key="d1">334160.38</data>
+    </edge>
+    <edge source="7111" target="711">
+      <data key="d1">36316312.6</data>
+    </edge>
+    <edge source="7110" target="711">
+      <data key="d1">57685234.0</data>
+    </edge>
+    <edge source="7300" target="730">
+      <data key="d1">55225.83</data>
+    </edge>
+    <edge source="7301" target="730">
+      <data key="d1">19190.24</data>
+    </edge>
+    <edge source="7050" target="705">
+      <data key="d1">84527752.0</data>
+    </edge>
+    <edge source="7513" target="751">
+      <data key="d1">12000.0</data>
+    </edge>
+    <edge source="75" target="prihodki">
+      <data key="d1">4213931.0</data>
+    </edge>
+    <edge source="714" target="71">
+      <data key="d1">139976233.4</data>
+    </edge>
+    <edge source="713" target="71">
+      <data key="d1">9578519.22</data>
+    </edge>
+    <edge source="712" target="71">
+      <data key="d1">69700939.0</data>
+    </edge>
+    <edge source="711" target="71">
+      <data key="d1">94001546.6</data>
+    </edge>
+    <edge source="710" target="71">
+      <data key="d1">197416163.29</data>
+    </edge>
+    <edge source="7044" target="704">
+      <data key="d1">159933564.2</data>
+    </edge>
+    <edge source="7047" target="704">
+      <data key="d1">71447078.0</data>
+    </edge>
+    <edge source="7046" target="704">
+      <data key="d1">128912402.4</data>
+    </edge>
+    <edge source="7041" target="704">
+      <data key="d1">108018606.0</data>
+    </edge>
+    <edge source="7040" target="704">
+      <data key="d1">2943952059.0</data>
+    </edge>
+    <edge source="7042" target="704">
+      <data key="d1">1655866340.0</data>
+    </edge>
+    <edge source="7048" target="704">
+      <data key="d1">43325502.0</data>
+    </edge>
+    <edge source="7120" target="712">
+      <data key="d1">69700939.0</data>
+    </edge>
+    <edge source="7311" target="731">
+      <data key="d1">6034260.49</data>
+    </edge>
+    <edge source="7310" target="731">
+      <data key="d1">1824821.24</data>
+    </edge>
+    <edge source="7520" target="752">
+      <data key="d1">1200000.0</data>
+    </edge>
+    <edge source="704" target="70">
+      <data key="d1">5111455551.6</data>
+    </edge>
+    <edge source="705" target="70">
+      <data key="d1">84527752.0</data>
+    </edge>
+    <edge source="706" target="70">
+      <data key="d1">50000000.0</data>
+    </edge>
+    <edge source="700" target="70">
+      <data key="d1">1268518752.55</data>
+    </edge>
+    <edge source="701" target="70">
+      <data key="d1">52990880.55</data>
+    </edge>
+    <edge source="702" target="70">
+      <data key="d1">27317316.44</data>
+    </edge>
+    <edge source="703" target="70">
+      <data key="d1">35863320.0</data>
+    </edge>
+    <edge source="7033" target="703">
+      <data key="d1">35863320.0</data>
+    </edge>
+    <edge source="7130" target="713">
+      <data key="d1">9578519.22</data>
+    </edge>
+    <edge source="5000" target="500">
+      <data key="d1">3095325052.0</data>
+    </edge>
+    <edge source="7021" target="702">
+      <data key="d1">27317316.44</data>
+    </edge>
+    <edge source="7860" target="786">
+      <data key="d1">3350000.0</data>
+    </edge>
+    <edge source="784" target="78">
+      <data key="d1">21800000.0</data>
+    </edge>
+    <edge source="786" target="78">
+      <data key="d1">3350000.0</data>
+    </edge>
+    <edge source="781" target="78">
+      <data key="d1">303122052.0</data>
+    </edge>
+    <edge source="782" target="78">
+      <data key="d1">733751183.0</data>
+    </edge>
+    <edge source="783" target="78">
+      <data key="d1">381452902.1</data>
+    </edge>
+    <edge source="7141" target="714">
+      <data key="d1">139976233.4</data>
+    </edge>
+    <edge source="7103" target="710">
+      <data key="d1">80737985.29</data>
+    </edge>
+    <edge source="7012" target="701">
+      <data key="d1">2881857.73</data>
+    </edge>
+    <edge source="7013" target="701">
+      <data key="d1">1615851.21</data>
+    </edge>
+    <edge source="7010" target="701">
+      <data key="d1">28853794.62</data>
+    </edge>
+    <edge source="7011" target="701">
+      <data key="d1">19639376.99</data>
+    </edge>
+    <edge source="731" target="73">
+      <data key="d1">7859081.73</data>
+    </edge>
+    <edge source="730" target="73">
+      <data key="d1">74416.07</data>
+    </edge>
+    <edge source="500" target="50">
+      <data key="d1">3095325052.0</data>
+    </edge>
+    <edge source="752" target="75">
+      <data key="d1">1200000.0</data>
+    </edge>
+    <edge source="751" target="75">
+      <data key="d1">12000.0</data>
+    </edge>
+    <edge source="750" target="75">
+      <data key="d1">3001931.0</data>
+    </edge>
+    <edge source="7001" target="700">
+      <data key="d1">394525000.0</data>
+    </edge>
+    <edge source="7000" target="700">
+      <data key="d1">867364659.0</data>
+    </edge>
+    <edge source="7002" target="700">
+      <data key="d1">6629093.55</data>
+    </edge>
+    <edge source="7841" target="784">
+      <data key="d1">13000000.0</data>
+    </edge>
+    <edge source="7843" target="784">
+      <data key="d1">8800000.0</data>
+    </edge>
+    <edge source="7211" target="721">
+      <data key="d1">2266.21</data>
+    </edge>
+    <edge source="722" target="72">
+      <data key="d1">611157.94</data>
+    </edge>
+    <edge source="720" target="72">
+      <data key="d1">16668103.26</data>
+    </edge>
+    <edge source="721" target="72">
+      <data key="d1">2266.21</data>
+    </edge>
+    <edge source="7400" target="740">
+      <data key="d1">1099667.77</data>
+    </edge>
+    <edge source="7402" target="740">
+      <data key="d1">23252.69</data>
+    </edge>
+    <edge source="740" target="74">
+      <data key="d1">1122920.46</data>
+    </edge>
+    <edge source="7830" target="783">
+      <data key="d1">381452902.1</data>
+    </edge>
+    <edge source="7203" target="720">
+      <data key="d1">11947.92</data>
+    </edge>
+    <edge source="7202" target="720">
+      <data key="d1">297178.82</data>
+    </edge>
+    <edge source="7201" target="720">
+      <data key="d1">369308.33</data>
+    </edge>
+    <edge source="7200" target="720">
+      <data key="d1">15989668.19</data>
+    </edge>
+    <edge source="7100" target="710">
+      <data key="d1">90278178.0</data>
+    </edge>
+    <edge source="7102" target="710">
+      <data key="d1">26400000.0</data>
+    </edge>
+    <edge source="74" target="prihodki">
+      <data key="d1">1122920.46</data>
+    </edge>
+    <edge source="73" target="prihodki">
+      <data key="d1">7933497.8</data>
+    </edge>
+    <edge source="72" target="prihodki">
+      <data key="d1">17281527.41</data>
+    </edge>
+    <edge source="71" target="prihodki">
+      <data key="d1">510673401.51</data>
+    </edge>
+    <edge source="70" target="prihodki">
+      <data key="d1">6630673573.14</data>
+    </edge>
+    <edge source="7822" target="782">
+      <data key="d1">147565705.0</data>
+    </edge>
+    <edge source="7821" target="782">
+      <data key="d1">586185478.0</data>
+    </edge>
+    <edge source="78" target="prihodki">
+      <data key="d1">1443476137.1</data>
+    </edge>
+    <edge source="7060" target="706">
+      <data key="d1">50000000.0</data>
+    </edge>
+    <edge source="7504" target="750">
+      <data key="d1">2751931.0</data>
+    </edge>
+    <edge source="7509" target="750">
+      <data key="d1">250000.0</data>
+    </edge>
+    <edge source="50" target="prihodki">
+      <data key="d1">3095325052.0</data>
+    </edge>
+  </graph>
+</graphml>

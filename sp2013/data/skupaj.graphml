@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="value" attr.type="double" for="edge" id="d2" />
+  <key attr.name="name" attr.type="string" for="node" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <data key="d0">union( ,  )</data>
+    <node id="43">
+      <data key="d1">43 - INVESTICIJSKI TRANSFERI</data>
+    </node>
+    <node id="404">
+      <data key="d1">404 - Plačila tujih obresti</data>
+    </node>
+    <node id="402">
+      <data key="d1">402 - Izdatki za blago in storitve</data>
+    </node>
+    <node id="401">
+      <data key="d1">401 - Prispevki delodajalcev za socialno varnost</data>
+    </node>
+    <node id="400">
+      <data key="d1">400 - Plače in drugi izdatki zaposlenim</data>
+    </node>
+    <node id="409">
+      <data key="d1">409 - Rezerve</data>
+    </node>
+    <node id="714">
+      <data key="d1">714 - Drugi nedavčni prihodki</data>
+    </node>
+    <node id="712">
+      <data key="d1">712 - Globe in druge denarne kazni</data>
+    </node>
+    <node id="711">
+      <data key="d1">711 - Takse in pristojbine</data>
+    </node>
+    <node id="710">
+      <data key="d1">710 - Udeležba na dobičku in dohodki od premoženja</data>
+    </node>
+    <node id="410">
+      <data key="d1">410 - Subvencije</data>
+    </node>
+    <node id="411">
+      <data key="d1">411 - Transferi posameznikom in gospodinjstvom</data>
+    </node>
+    <node id="412">
+      <data key="d1">412 - Transferi nepridobitnim organizacijam in ustanovam</data>
+    </node>
+    <node id="413">
+      <data key="d1">413 - Drugi tekoči domači transferi</data>
+    </node>
+    <node id="704">
+      <data key="d1">704 - Domači davki na blago in storitve</data>
+    </node>
+    <node id="705">
+      <data key="d1">705 - Davki na mednarodno trgovino in transakcije</data>
+    </node>
+    <node id="706">
+      <data key="d1">706 - Drugi davki</data>
+    </node>
+    <node id="700">
+      <data key="d1">700 - Davki na dohodek in dobiček</data>
+    </node>
+    <node id="prihodki">
+      <data key="d1">prihodki</data>
+    </node>
+    <node id="420">
+      <data key="d1">420 - Nakup in gradnja osnovnih sredstev</data>
+    </node>
+    <node id="441">
+      <data key="d1">441 - Povečanje kapitalskih deležev in finančnih naložb</data>
+    </node>
+    <node id="440">
+      <data key="d1">440 - Dana posojila</data>
+    </node>
+    <node id="781">
+      <data key="d1">781 - Prejeta sredstva iz proračuna EU za izvajanje skupne kmetijske in ribiške politike</data>
+    </node>
+    <node id="782">
+      <data key="d1">782 - Prejeta sredstva iz proračuna EU iz strukturnih skladov</data>
+    </node>
+    <node id="783">
+      <data key="d1">783 - Prejeta sredstva iz proračuna EU iz kohezijskega sklada</data>
+    </node>
+    <node id="44">
+      <data key="d1">44 - DANA POSOJILA IN POVEČANJE KAPITALSKIH DELEŽEV</data>
+    </node>
+    <node id="432">
+      <data key="d1">432 - Investicijski transferi proračunskim uporabnikom</data>
+    </node>
+    <node id="431">
+      <data key="d1">431 - Investicijski transferi pravnim in fizičnim osebam. ki niso proračunski uporabniki</data>
+    </node>
+    <node id="450">
+      <data key="d1">450 - Plačila sredstev v proračun Evropske unije</data>
+    </node>
+    <node id="45">
+      <data key="d1">45 - PLAČILA SREDSTEV V PRORAČUN EVROPSKE UNIJE</data>
+    </node>
+    <node id="403">
+      <data key="d1">403 - Plačila domačih obresti</data>
+    </node>
+    <node id="500">
+      <data key="d1">500 - Domače zadolževanje</data>
+    </node>
+    <node id="odhodki">
+      <data key="d1">odhodki</data>
+    </node>
+    <node id="55">
+      <data key="d1">55 - ODPLAČILA DOLGA</data>
+    </node>
+    <node id="551">
+      <data key="d1">551 - Odplačila dolga v tujino</data>
+    </node>
+    <node id="550">
+      <data key="d1">550 - Odplačila domačega dolga</data>
+    </node>
+    <node id="42">
+      <data key="d1">42 - INVESTICIJSKI ODHODKI</data>
+    </node>
+    <node id="40">
+      <data key="d1">40 - TEKOČI ODHODKI</data>
+    </node>
+    <node id="41">
+      <data key="d1">41 - TEKOČI TRANSFERI</data>
+    </node>
+    <node id="71">
+      <data key="d1">71 - NEDAVČNI PRIHODKI</data>
+    </node>
+    <node id="70">
+      <data key="d1">70 - DAVČNI PRIHODKI</data>
+    </node>
+    <node id="78">
+      <data key="d1">78 - PREJETA SREDSTVA IZ EVROPSKE UNIJE</data>
+    </node>
+    <node id="50">
+      <data key="d1">50 - ZADOLŽEVANJE</data>
+    </node>
+    <edge source="43" target="432">
+      <data key="d2">612774506.78</data>
+    </edge>
+    <edge source="43" target="431">
+      <data key="d2">233657817.93</data>
+    </edge>
+    <edge source="714" target="71">
+      <data key="d2">139976233.4</data>
+    </edge>
+    <edge source="712" target="71">
+      <data key="d2">69700939.0</data>
+    </edge>
+    <edge source="711" target="71">
+      <data key="d2">94001546.6</data>
+    </edge>
+    <edge source="710" target="71">
+      <data key="d2">197416163.29</data>
+    </edge>
+    <edge source="704" target="70">
+      <data key="d2">5111455551.6</data>
+    </edge>
+    <edge source="705" target="70">
+      <data key="d2">84527752.0</data>
+    </edge>
+    <edge source="706" target="70">
+      <data key="d2">50000000.0</data>
+    </edge>
+    <edge source="700" target="70">
+      <data key="d2">1268518752.55</data>
+    </edge>
+    <edge source="prihodki" target="55">
+      <data key="d2">1865243812.33</data>
+    </edge>
+    <edge source="prihodki" target="44">
+      <data key="d2">224904950.38</data>
+    </edge>
+    <edge source="prihodki" target="45">
+      <data key="d2">413100000.0</data>
+    </edge>
+    <edge source="prihodki" target="42">
+      <data key="d2">567039002.24</data>
+    </edge>
+    <edge source="prihodki" target="43">
+      <data key="d2">846432324.71</data>
+    </edge>
+    <edge source="prihodki" target="40">
+      <data key="d2">2562700193.68</data>
+    </edge>
+    <edge source="prihodki" target="41">
+      <data key="d2">5231279757.42</data>
+    </edge>
+    <edge source="781" target="78">
+      <data key="d2">303122052.0</data>
+    </edge>
+    <edge source="782" target="78">
+      <data key="d2">733751183.0</data>
+    </edge>
+    <edge source="783" target="78">
+      <data key="d2">381452902.1</data>
+    </edge>
+    <edge source="44" target="441">
+      <data key="d2">152337000.0</data>
+    </edge>
+    <edge source="44" target="440">
+      <data key="d2">66192368.38</data>
+    </edge>
+    <edge source="45" target="450">
+      <data key="d2">413100000.0</data>
+    </edge>
+    <edge source="500" target="50">
+      <data key="d2">3095325052.0</data>
+    </edge>
+    <edge source="55" target="551">
+      <data key="d2">7806088.79</data>
+    </edge>
+    <edge source="55" target="550">
+      <data key="d2">1857437723.54</data>
+    </edge>
+    <edge source="42" target="420">
+      <data key="d2">567039002.24</data>
+    </edge>
+    <edge source="40" target="404">
+      <data key="d2">41321302.81</data>
+    </edge>
+    <edge source="40" target="403">
+      <data key="d2">657442409.15</data>
+    </edge>
+    <edge source="40" target="402">
+      <data key="d2">708683031.54</data>
+    </edge>
+    <edge source="40" target="401">
+      <data key="d2">173893884.31</data>
+    </edge>
+    <edge source="40" target="400">
+      <data key="d2">918588506.86</data>
+    </edge>
+    <edge source="40" target="409">
+      <data key="d2">62771059.01</data>
+    </edge>
+    <edge source="41" target="410">
+      <data key="d2">497725116.51</data>
+    </edge>
+    <edge source="41" target="411">
+      <data key="d2">1321328922.01</data>
+    </edge>
+    <edge source="41" target="412">
+      <data key="d2">145108857.8</data>
+    </edge>
+    <edge source="41" target="413">
+      <data key="d2">3236542368.62</data>
+    </edge>
+    <edge source="71" target="prihodki">
+      <data key="d2">510673401.51</data>
+    </edge>
+    <edge source="70" target="prihodki">
+      <data key="d2">6630673573.14</data>
+    </edge>
+    <edge source="78" target="prihodki">
+      <data key="d2">1443476137.1</data>
+    </edge>
+    <edge source="50" target="prihodki">
+      <data key="d2">3095325052.0</data>
+    </edge>
+  </graph>
+</graphml>
