@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'tiger';
+  src: url('../font/tiger.eot?4278543');
+  src: url('../font/tiger.eot?4278543#iefix') format('embedded-opentype'),
+       url('../font/tiger.woff?4278543') format('woff'),
+       url('../font/tiger.ttf?4278543') format('truetype'),
+       url('../font/tiger.svg?4278543#tiger') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'tiger';
+    src: url('../font/tiger.svg?4278543#tiger') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "tiger";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-brush:before { content: '\e806'; } /* '' */
+.icon-theatre:before { content: '\e809'; } /* '' */
+.icon-town-hall:before { content: '\e804'; } /* '' */
+.icon-warehouse:before { content: '\e803'; } /* '' */
+.icon-color-adjust:before { content: '\e805'; } /* '' */
+.icon-globe:before { content: '\e802'; } /* '' */
+.icon-videocam:before { content: '\e801'; } /* '' */
+.icon-video:before { content: '\e800'; } /* '' */
+.icon-book-1:before { content: '\e808'; } /* '' */
+.icon-book:before { content: '\e807'; } /* '' */

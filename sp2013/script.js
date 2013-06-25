@@ -35,7 +35,7 @@ d3.json("data/SP2013_SPL.json", function(data) {
       .data(data.links)
     .enter().append("path")
       .attr("class", function(d){ 
-        console.log(d);
+        // console.log(d);
         if (d.source.name.indexOf('50') === 0 || 
             d.target.name.indexOf('55') === 0 ||
             d.target.name.indexOf('403') === 0 ||
